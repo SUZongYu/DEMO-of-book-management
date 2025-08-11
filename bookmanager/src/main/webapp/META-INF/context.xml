@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <!-- 设置请求和响应的字符编码 -->
+    <Parameter name="requestEncoding" value="UTF-8" override="false"/>
+    <Parameter name="responseEncoding" value="UTF-8" override="false"/>
+    
+    <!-- 设置JSP页面的默认编码 -->
+    <Parameter name="jspEncoding" value="UTF-8" override="false"/>
+    
+    <!-- 设置文件上传的编码 -->
+    <Parameter name="fileEncoding" value="UTF-8" override="false"/>
+</Context> 
